@@ -41,7 +41,7 @@ load_js_module("laya.core.js");
 load_js_module("laya.webgl.js");
 load_js_module("laya.ui.js");
 load_js_module("laya.html.js");
-load_js_module("fairygui.js");
+// load_js_module("fairygui.js");
 if (window.wx) {
     load_js_module("laya.wxmini.js");
     // 微信小又默认文件编码是ascii， 这里修改配置文件为需要的 utf8
