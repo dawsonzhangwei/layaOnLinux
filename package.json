@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "convert_ui": "python tools/ui_converter.py",
+    "compile": "node_modules/.bin/webpack --config .laya/webpack.config.js",
+    "start": "node_modules/.bin/webpack --config .laya/webpack.config.js --watch"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.2.0",
+    "tsconfig-paths-webpack-plugin": "^3.2.0",
+    "typescript": "^3.0.3",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  }
+}

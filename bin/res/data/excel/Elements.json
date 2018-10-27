@@ -1,0 +1,301 @@
+[{
+        "icon": "arrows/0.png",
+        "id": 40001,
+        "name": 0,
+        "type": 1
+    },
+    {
+        "icon": "arrows/1.png",
+        "id": 40002,
+        "name": 1,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10.png",
+        "id": 40003,
+        "name": 10,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10000.png",
+        "id": 40004,
+        "name": 10000,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10001.png",
+        "id": 40005,
+        "name": 10001,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10002.png",
+        "id": 40006,
+        "name": 10002,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10003.png",
+        "id": 40007,
+        "name": 10003,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10004.png",
+        "id": 40008,
+        "name": 10004,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10005.png",
+        "id": 40009,
+        "name": 10005,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10006.png",
+        "id": 40010,
+        "name": 10006,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10007.png",
+        "id": 40011,
+        "name": 10007,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10008.png",
+        "id": 40012,
+        "name": 10008,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10009.png",
+        "id": 40013,
+        "name": 10009,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10010.png",
+        "id": 40014,
+        "name": 10010,
+        "type": 1
+    },
+    {
+        "icon": "arrows/10011.png",
+        "id": 40015,
+        "name": 10011,
+        "type": 1
+    },
+    {
+        "icon": "arrows/11.png",
+        "id": 40016,
+        "name": 11,
+        "type": 1
+    },
+    {
+        "icon": "arrows/12.png",
+        "id": 40017,
+        "name": 12,
+        "type": 1
+    },
+    {
+        "icon": "arrows/13.png",
+        "id": 40018,
+        "name": 13,
+        "type": 1
+    },
+    {
+        "icon": "arrows/14.png",
+        "id": 40019,
+        "name": 14,
+        "type": 1
+    },
+    {
+        "icon": "arrows/15.png",
+        "id": 40020,
+        "name": 15,
+        "type": 1
+    },
+    {
+        "icon": "arrows/16.png",
+        "id": 40021,
+        "name": 16,
+        "type": 1
+    },
+    {
+        "icon": "arrows/17.png",
+        "id": 40022,
+        "name": 17,
+        "type": 1
+    },
+    {
+        "icon": "arrows/18.png",
+        "id": 40023,
+        "name": 18,
+        "type": 1
+    },
+    {
+        "icon": "arrows/19.png",
+        "id": 40024,
+        "name": 19,
+        "type": 1
+    },
+    {
+        "icon": "arrows/2.png",
+        "id": 40025,
+        "name": 2,
+        "type": 1
+    },
+    {
+        "icon": "arrows/20.png",
+        "id": 40026,
+        "name": 20,
+        "type": 1
+    },
+    {
+        "icon": "arrows/21.png",
+        "id": 40027,
+        "name": 21,
+        "type": 1
+    },
+    {
+        "icon": "arrows/22.png",
+        "id": 40028,
+        "name": 22,
+        "type": 1
+    },
+    {
+        "icon": "arrows/23.png",
+        "id": 40029,
+        "name": 23,
+        "type": 1
+    },
+    {
+        "icon": "arrows/24.png",
+        "id": 40030,
+        "name": 24,
+        "type": 1
+    },
+    {
+        "icon": "arrows/25.png",
+        "id": 40031,
+        "name": 25,
+        "type": 1
+    },
+    {
+        "icon": "arrows/26.png",
+        "id": 40032,
+        "name": 26,
+        "type": 1
+    },
+    {
+        "icon": "arrows/27.png",
+        "id": 40033,
+        "name": 27,
+        "type": 1
+    },
+    {
+        "icon": "arrows/28.png",
+        "id": 40034,
+        "name": 28,
+        "type": 1
+    },
+    {
+        "icon": "arrows/29.png",
+        "id": 40035,
+        "name": 29,
+        "type": 1
+    },
+    {
+        "icon": "arrows/3.png",
+        "id": 40036,
+        "name": 3,
+        "type": 1
+    },
+    {
+        "icon": "arrows/30.png",
+        "id": 40037,
+        "name": 30,
+        "type": 1
+    },
+    {
+        "icon": "arrows/31.png",
+        "id": 40038,
+        "name": 31,
+        "type": 1
+    },
+    {
+        "icon": "arrows/32.png",
+        "id": 40039,
+        "name": 32,
+        "type": 1
+    },
+    {
+        "icon": "arrows/4.png",
+        "id": 40040,
+        "name": 4,
+        "type": 1
+    },
+    {
+        "icon": "arrows/5.png",
+        "id": 40041,
+        "name": 5,
+        "type": 1
+    },
+    {
+        "icon": "arrows/6.png",
+        "id": 40042,
+        "name": 6,
+        "type": 1
+    },
+    {
+        "icon": "arrows/7.png",
+        "id": 40043,
+        "name": 7,
+        "type": 1
+    },
+    {
+        "icon": "arrows/8.png",
+        "id": 40044,
+        "name": 8,
+        "type": 1
+    },
+    {
+        "icon": "arrows/9.png",
+        "id": 40045,
+        "name": 9,
+        "type": 1
+    },
+    {
+        "icon": "bullets/bullet_5000.png",
+        "id": 40046,
+        "name": "bullet_5000",
+        "type": 0
+    },
+    {
+        "icon": "bullets/bullet_5001.png",
+        "id": 40047,
+        "name": "bullet_5001",
+        "type": 0
+    },
+    {
+        "icon": "bullets/bullet_5002.png",
+        "id": 40048,
+        "name": "bullet_5002",
+        "type": 0
+    },
+    {
+        "icon": "bullets/bullet_5003.png",
+        "id": 40049,
+        "name": "bullet_5003",
+        "type": 0
+    },
+    {
+        "icon": "bullets/bullet_5004.png",
+        "id": 40050,
+        "name": "bullet_5004",
+        "type": 0
+    }
+]

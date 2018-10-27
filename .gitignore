@@ -1,0 +1,3 @@
+node_modules
+.laya/chrome
+yarn.lock
