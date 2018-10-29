@@ -15531,7 +15531,7 @@ declare module laya.display {
         resetToInitState(): void;
     }
 }
-declare module laya.display {
+declare module laya.display {/**我的draw */
     import Matrix = laya.maths.Matrix;
     import Point = laya.maths.Point;
     import Rectangle = laya.maths.Rectangle;
@@ -16381,7 +16381,7 @@ declare module laya.display {
      *     }
      * }
      */
-    class Sprite extends Node implements ILayout {
+    class Sprite extends Node implements ILayout {/**Sprite草 */
         protected _transform: Matrix;
         protected _tfChanged: boolean;
         protected _x: number;
